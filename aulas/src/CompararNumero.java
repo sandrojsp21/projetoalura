@@ -3,8 +3,10 @@ import java.util.Scanner;
 public class CompararNumero {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
+
         System.out.println("Inserir o primeiro número inteiros: ");
         int numero_1 = entrada.nextInt();
+        
         System.out.println("Inserir o segundo número inteiros: ");
         int numero_2 = entrada.nextInt();
 
