@@ -1,3 +1,6 @@
+import java.util.Locale;
+import java.util.Scanner;
+
 public class Condicioanal {
     public static void main(String[] args) {
         int anoDeLancamento = 1990;
@@ -18,3 +21,4 @@ public class Condicioanal {
         }
     }
 }
+
